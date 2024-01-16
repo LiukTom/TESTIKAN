@@ -1,0 +1,5 @@
+body {
+  background-color: blueviolet
+  color(srgb-linear rgb(198, 128, 128) green blue);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
